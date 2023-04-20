@@ -1,4 +1,0 @@
-/home/imedzhidli/Desktop/OS/2Laba/build/CMakeFiles/rebuild_cache.dir
-/home/imedzhidli/Desktop/OS/2Laba/build/CMakeFiles/edit_cache.dir
-/home/imedzhidli/Desktop/OS/2Laba/build/CMakeFiles/child.dir
-/home/imedzhidli/Desktop/OS/2Laba/build/CMakeFiles/lab2.dir
