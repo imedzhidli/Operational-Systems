@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/string_to_vector.h
+vector
+-
+iostream
+-
+string
+-
+cstring
+-
+cstdlib
+-
+algorithm
+-
+
+/home/imedzhidli/Desktop/OS/2Laba/src/child.cpp
+cstdlib
+-
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+string_to_vector.h
+/home/imedzhidli/Desktop/OS/2Laba/src/string_to_vector.h
+
+/home/imedzhidli/Desktop/OS/2Laba/src/string_to_vector.cpp
+string_to_vector.h
+/home/imedzhidli/Desktop/OS/2Laba/src/string_to_vector.h
+

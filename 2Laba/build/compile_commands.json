@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/imedzhidli/Desktop/OS/2Laba/build",
+  "command": "/usr/bin/g++   -I/home/imedzhidli/Desktop/OS/2Laba/include  -g   -o CMakeFiles/child.dir/src/child.cpp.o -c /home/imedzhidli/Desktop/OS/2Laba/src/child.cpp",
+  "file": "/home/imedzhidli/Desktop/OS/2Laba/src/child.cpp"
+},
+{
+  "directory": "/home/imedzhidli/Desktop/OS/2Laba/build",
+  "command": "/usr/bin/g++   -I/home/imedzhidli/Desktop/OS/2Laba/include  -g   -o CMakeFiles/child.dir/src/string_to_vector.cpp.o -c /home/imedzhidli/Desktop/OS/2Laba/src/string_to_vector.cpp",
+  "file": "/home/imedzhidli/Desktop/OS/2Laba/src/string_to_vector.cpp"
+},
+{
+  "directory": "/home/imedzhidli/Desktop/OS/2Laba/build",
+  "command": "/usr/bin/g++   -I/home/imedzhidli/Desktop/OS/2Laba/include  -g   -o CMakeFiles/lab2.dir/main.cpp.o -c /home/imedzhidli/Desktop/OS/2Laba/main.cpp",
+  "file": "/home/imedzhidli/Desktop/OS/2Laba/main.cpp"
+},
+{
+  "directory": "/home/imedzhidli/Desktop/OS/2Laba/build",
+  "command": "/usr/bin/g++   -I/home/imedzhidli/Desktop/OS/2Laba/include  -g   -o CMakeFiles/lab2.dir/src/parent.cpp.o -c /home/imedzhidli/Desktop/OS/2Laba/src/parent.cpp",
+  "file": "/home/imedzhidli/Desktop/OS/2Laba/src/parent.cpp"
+}
+]

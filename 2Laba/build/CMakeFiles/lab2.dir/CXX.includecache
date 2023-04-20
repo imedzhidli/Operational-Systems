@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/parent.h
+istream
+-
+vector
+-
+iostream
+-
+string
+-
+unistd.h
+-
+cstdlib
+-
+fstream
+-
+cstdio
+-
+sys/wait.h
+-
+array
+-
+
+/home/imedzhidli/Desktop/OS/2Laba/main.cpp
+parent.h
+/home/imedzhidli/Desktop/OS/2Laba/parent.h
+
+/home/imedzhidli/Desktop/OS/2Laba/src/parent.cpp
+parent.h
+/home/imedzhidli/Desktop/OS/2Laba/src/parent.h
+
