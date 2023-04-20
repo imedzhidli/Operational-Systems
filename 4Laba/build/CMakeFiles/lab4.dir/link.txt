@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/lab4.dir/main.cpp.o CMakeFiles/lab4.dir/src/parent.cpp.o  -o lab4  -lrt -lpthread 
