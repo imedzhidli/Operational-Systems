@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/imedzhidli/Desktop/OS/3Laba/build",
+  "command": "/usr/bin/g++   -I/home/imedzhidli/Desktop/OS/3Laba/include  -g   -o CMakeFiles/lab3.dir/main.cpp.o -c /home/imedzhidli/Desktop/OS/3Laba/main.cpp",
+  "file": "/home/imedzhidli/Desktop/OS/3Laba/main.cpp"
+},
+{
+  "directory": "/home/imedzhidli/Desktop/OS/3Laba/build",
+  "command": "/usr/bin/g++   -I/home/imedzhidli/Desktop/OS/3Laba/include  -g   -o CMakeFiles/lab3.dir/src/laba3OS.cpp.o -c /home/imedzhidli/Desktop/OS/3Laba/src/laba3OS.cpp",
+  "file": "/home/imedzhidli/Desktop/OS/3Laba/src/laba3OS.cpp"
+}
+]

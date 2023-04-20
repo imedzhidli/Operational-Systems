@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/laba3OS.h
+vector
+-
+iostream
+-
+string
+-
+pthread.h
+-
+
+/home/imedzhidli/Desktop/OS/3Laba/main.cpp
+laba3OS.h
+/home/imedzhidli/Desktop/OS/3Laba/laba3OS.h
+
